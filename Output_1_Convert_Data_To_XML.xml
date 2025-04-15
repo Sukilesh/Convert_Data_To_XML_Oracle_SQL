@@ -1,0 +1,15 @@
+<employee>
+  <id>101</id>
+  <name>Alice</name>
+  <dept>HR</dept>
+</employee>
+<employee>
+  <id>102</id>
+  <name>Bob</name>
+  <dept>Finance</dept>
+</employee>
+<employee>
+  <id>103</id>
+  <name>Charlie</name>
+  <dept>IT</dept>
+</employee>
